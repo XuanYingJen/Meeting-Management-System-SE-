@@ -1,0 +1,12 @@
+input[type = "text"]{
+    font-size: 14px;
+    font-family: "微軟正黑體",sans-serif;
+    padding: 0 px;
+    margin: 0 auto;
+    display: block;
+    width:98%;
+
+}
+td.name{
+    text-align: center;
+}
